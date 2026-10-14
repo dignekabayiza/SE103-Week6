@@ -1,0 +1,5 @@
+Full Name: Digne Kabayiza
+GitHub Username: dignekabayiza
+Date Started: 2026-10-14
+Auth Method: SSH
+One Git habit I want to improve: I want to run git status before every commit.
