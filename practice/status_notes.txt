@@ -1,0 +1,7 @@
+Student Name: Digne Kabayiza
+
+What I check before committing:
+Before I commit, I run git status to see which files changed. I check that only the files I want are staged. I use git diff to read my changes and look for mistakes. I also check that my commit message matches the task instructions.
+
+What I am committing now and why:
+I am committing status_notes.txt because it records my inspect-before-commit habit. It is a separate commit from my plan, so each commit keeps one clear purpose.
