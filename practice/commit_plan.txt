@@ -1,0 +1,10 @@
+Student Name: Digne Kabayiza
+
+Commit 1 purpose:
+document my small-commit plan
+
+Commit 2 purpose:
+record my inspect-before-commit habit
+
+Why smaller commits are better than one giant commit:
+Smaller commits are easier to review because each one has a single purpose. If something breaks, I can find the problem quickly by checking one small change. They also make my history clear, since each message explains exactly what changed. A small commit can be undone without losing unrelated work.
