@@ -1,0 +1,12 @@
+Student Name: Digne Kabayiza
+GitHub Username: dignekabayiza
+Repository: SE103-Week6
+Repository URL: https://github.com/dignekabayiza/SE103-Week6
+
+Git habits I demonstrated this week:
+This week I made small, focused commits with clear messages instead of bundling unrelated changes together. I checked git status and the staged diff before every commit so I knew exactly what I was saving. I used a .gitignore file to keep secrets, logs, and temporary files out of the repository, and I proved it worked with evidence. I planned my commits in advance and reviewed my own pull request before considering the work finished. I also kept my README and notes up to date so the project explains itself.
+
+One mistake-prevention habit I will keep:
+I will always run git status and git diff --staged before committing. This catches accidental files, such as secrets or logs, before they ever reach GitHub.
+
+All required files are on main: Yes
