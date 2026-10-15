@@ -1,13 +1,13 @@
 Student Name: Digne Kabayiza
 
 What changed:
-I added a section called How I use Git carefully to README.md. It lists four habits that I follow when I work with Git. I also created this self-review file to describe the change.
+I added a "How I use Git carefully" section to the README with four habits. I kept my identity lines at the top unchanged. I also wrote this self-review note for the pull request.
 
 How I verified the change:
-I ran cat README.md to check that my identity lines are still at the top. I confirmed the new section heading is spelled exactly as the task requires. I also ran git status to make sure only the intended files changed.
+I opened README.md after editing to confirm the new section appeared below my identity lines. I ran git diff to confirm only the intended files changed. I also checked git status to make sure no ignored files were staged.
 
 One possible improvement a reviewer might suggest:
-A reviewer might ask me to add an example command for each habit. They might also suggest a short sentence about why each habit matters.
+A reviewer might ask me to add short examples of each habit, such as a sample commit message. They might also suggest a link to the Git documentation.
 
 Professional response I would give:
-I would thank the reviewer for the suggestion and agree that examples would make the habits clearer. I would update the README in a new commit on the same branch and let them know when it is ready.
+Thank you for the suggestion. I will add a short example under each habit in a follow-up commit so this pull request stays small and focused.
